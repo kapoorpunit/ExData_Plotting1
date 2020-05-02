@@ -2,11 +2,11 @@
 
 This repository has these 8 files -
 1. plot1.R
-2. plot1.R
+2. plot2.R
 3. plot3.R
 4. plot4.R
 5. plot1.png
-6. plot1.png
+6. plot2.png
 7. plot3.png
 8. plot4.png
 
