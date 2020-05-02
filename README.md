@@ -1,4 +1,16 @@
-## Introduction
+## Assignment README.md file by Punit Kapoor ##
+
+This repository has these 8 files -
+1. plot1.R
+2. plot1.R
+3. plot3.R
+4. plot4.R
+5. plot1.png
+6. plot1.png
+7. plot3.png
+8. plot4.png
+
+## Assignment Details ##
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
